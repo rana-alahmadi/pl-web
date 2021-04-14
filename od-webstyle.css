@@ -1,0 +1,385 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    text-align: center;
+    color: #1C3D19;
+    background-image: url(img/2C8D8694-D590-4211-BA2E-E11EA8881E38.png);
+    width: 1248px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    /* [disabled]border-color: #20411D; */
+    /* [disabled]border-style: solid; */
+    /* [disabled]border-width: 10px; */
+    border-top-right-radius: 10px;
+    border-top-left-radius: 0px;
+}
+
+/* CSS Document */
+
+.hdr {
+    width: 1248px;
+    height: 150px;
+    background-color: #C0E1CA;
+    margin-top: -10px;
+    margin-bottom: auto;
+}
+.nvg {
+    text-decoration: none;
+    background-color: #C0E1CA;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -30px;
+    margin-bottom: auto;
+
+}
+a {
+    color: #20411E;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	
+}
+a:hover
+{
+	background:#20411E;
+	color:#C0E1CA;
+}
+img {
+    text-align: left;
+}
+p {
+    text-align: right;
+}
+
+.mon {
+    width: 245px;
+    margin-top: 30px;
+    height: 245px;
+    background-image: url(img/ge.jpg);
+    display: run-in;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    border: 2px solid #20411E;
+    margin-left: 2px;
+}
+
+
+.submon {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    border-width: thin;
+    clear: none;
+    margin-left: 0px;
+}
+.tst {
+    width: 245px;
+    height: 45px;
+    border: 2px solid #20411E;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 2px;
+}
+.ivy {
+    width: 245px;
+    height: 245px;
+    margin-left: 250px;
+    margin-top: -296px;
+    margin-right: 0px;
+    background-image: url(img/hir.jpg);
+    border: 2px solid #20411E;
+}
+.subivy {
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.tstivy {
+    width: 245px;
+    border: 2px solid #20411E;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 250px;
+}
+.dra {
+    width: 245px;
+    height: 245px;
+    margin-left: 498px;
+    margin-top: -296px;
+    margin-right: 0px;
+    border: 2px solid #20411E;
+    background-image: url(img/gol.jpg);
+    background-repeat: no-repeat;
+}
+.subdra {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+}
+.dratst {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 498px;
+}
+
+.spa {
+    width: 245px;
+    height: 245px;
+    margin-left: 746px;
+    margin-top: -296px;
+    border: 2px solid #20411E;
+    margin-right: 0px;
+    background-image: url(img/abu.jpg);
+    background-repeat: no-repeat;
+}
+.spasub {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+}
+.spatst {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 746px;
+}
+.bro {
+    width: 245px;
+    height: 245px;
+    margin-left: 994px;
+    border: 2px solid #20411E;
+    margin-top: -296px;
+    margin-right: 0px;
+    background-image: url(img/fu.jpg);
+    background-repeat: no-repeat;
+}
+.brotst {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 994px;
+}
+.brosub {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    border-width: thin;
+    clear: none;
+    margin-left: 0px;
+}
+.san {
+    width: 245px;
+    height: 245px;
+    border: 2px solid #20411E;
+    margin-left: 2px;
+    margin-top: -2px;
+    margin-right: 0px;
+    background-image: url(img/san.jpg);
+    background-repeat: no-repeat;
+}
+
+
+.subsan {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    border-width: thin;
+    clear: none;
+    margin-left: 0px;
+}
+
+.santst {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 2px;
+}
+
+.zan {
+    width: 245px;
+    border: 2px solid #20411E;
+    height: 245px;
+    margin-left: 250px;
+    margin-top: -296px;
+    margin-right: 0px;
+    background-image: url(img/zan.jpg);
+    background-repeat: no-repeat;
+}
+.zantst {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 250px;
+}
+
+.subzan {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    border-width: thin;
+    clear: none;
+    margin-left: 0px;
+}
+.anth {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 245px;
+    margin-left: 498px;
+    margin-top: -296px;
+    margin-right: 0px;
+    background-image: url(img/ant.jpg);
+    background-repeat: no-repeat;
+}
+
+.subanth {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    border-width: thin;
+    clear: none;
+    margin-left: 0px;
+}
+.anthtst {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 498px;
+}
+
+.mai {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 245px;
+    margin-left: 746px;
+    margin-top: -296px;
+    margin-right: 0px;
+    background-image: url(img/Mai.jpg);
+    background-repeat: no-repeat;
+}
+.submai {
+    border: thin solid #20411E;
+    width: 245px;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 0px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    clear: none;
+}
+.maitst {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 746px;
+}
+.fic {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 245px;
+    margin-left: 994px;
+    margin-top: -296px;
+    margin-right: 0px;
+    background-image: url(img/fic.jpg);
+    background-repeat: no-repeat;
+}
+
+.subfic {
+    border: thin solid #20411E;
+    width: 245px;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 0px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    clear: none;
+}
+.fictst {
+    border: 2px solid #20411E;
+    width: 245px;
+    height: 45px;
+    background-color: #C0E1CA;
+    margin-top: -2px;
+    margin-left: 994px;
+}
+.tst:hover
+{
+	background:#20411E;
+	color:#C0E1CA;
+}
+.tstivy:hover
+{
+	background:#20411E;
+	color:#C0E1CA;
+}
+.dratst:hover
+{
+	background:#20411E;
+	color:#C0E1CA;
+}
+.spatst:hover
+{
+	background:#20411E;
+	color:#C0E1CA;
+}
+.zantst:hover
+{
+	background:#20411E;
+	color:#C0E1CA;
+}
+.anthtst:hover
+{
+	background:#20411E;
+	color:#C0E1CA;
+}
+.maitst:hover
+{
+	background:#20411E;
+	color:#C0E1CA;
+}
+.brotst:hover
+{
+	background:#20411E;
+	color:#C0E1CA;
+}
+.fictst:hover
+{
+	background:#20411E;
+	color:#C0E1CA;
+}
